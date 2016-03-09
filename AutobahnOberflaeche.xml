@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layouts>
+	<layout name="root">
+		<row>
+			<button type="voicerec" icon="voice_64x64" />
+			<button type="picture" icon="camera_64x64" />
+			<!--<button type="textnote" icon="text_32x32" />-->
+		</row>
+		<row>
+			<button type="tag" label="asphalt" icon="asphalt.png" />
+			<button type="tag" label="concrete" icon="concrete.png" />	
+    </row>
+		<row>
+			<button type="tag" label="bridge asphalt" icon="bridge asphalt.png" />
+			<button type="tag" label="bridge concrete" icon="bridge concrete.png" />
+    </row>
+	</layout>
+</layouts>
